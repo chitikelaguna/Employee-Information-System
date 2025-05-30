@@ -23,22 +23,22 @@ A web-based Employee Information System built using **Python**, **Django**, and 
 - **Authentication:** Django’s built-in authentication
 
 ## 📂 Project Structure
-Team_Member/
-├── employee/
-│ ├── migrations/
-│ ├── templates/
-│ │ └── employee/
-│ ├── init.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py
-│ ├── urls.py
-│ └── views.py
-├── Team_Member/
-│ ├── init.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
-├── db.sqlite3
-├── manage.py
-└── README.md
+### Team_Member/
+### ├── employee/
+### │ ├── migrations/
+### │ ├── templates/
+### │ │ └── employee/
+### │ ├── init.py
+### │ ├── admin.py
+### │ ├── apps.py
+### │ ├── models.py
+### │ ├── urls.py
+### │ └── views.py
+### ├── Team_Member/
+### │ ├── init.py
+### │ ├── settings.py
+### │ ├── urls.py
+### │ └── wsgi.py
+### ├── db.sqlite3
+### ├── manage.py
+### └── README.md
